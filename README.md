@@ -1,1 +1,18 @@
-# siori
+# PortfolioExample_WorX_ENGINEER-CLASS
+week9終盤以降で用いる、ポートフォリオ用GitHubの例です
+
+## アプリ概要
+例：Next.jsとSupabaseを用いたブログアプリです。
+
+## サイトイメージ
+作成中…
+
+## サイトURL
+作成中…
+
+## 設計ドキュメント
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1QMdca3Um1b78QCDzF03d13ypRfQgwdwPzrKPrkGnSSQ/edit?usp=sharing)
+詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス]()）
+
+## 機能一覧
+作成中…
