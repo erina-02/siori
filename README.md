@@ -5,7 +5,7 @@ week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 例：Next.jsとSupabaseを用いたブログアプリです。
 
 ## サイトイメージ
-![アプリ画面](https://github.com/user-attachments/assets/e79c1acd-db21-4bc8-bec3-e3046e0d7328?raw=true)
+![アプリ画面](https://github.com/erina-02/siori/blob/5951e4c38376cd61b67aa4366c3b74ecd9f05ffe/docs/%E3%82%A2%E3%83%97%E3%83%AA%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8.png?raw=true)
 
 
 ## サイトURL
