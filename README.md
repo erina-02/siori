@@ -15,9 +15,9 @@ https://travel-schedule-o6ucbydvp-erina-02s-projects.vercel.app/
 詳細設計時のワイヤーフレーム、ER図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](https://github.com/erina-02/siori/tree/3ba6b0b9fa7cc49120c0d0246da6064de6a790aa/docs)）
 
 ## 機能一覧
-・しおり作成機能
-・スケジュール追加、編集機能
-・URL共有機能（コピー用URLボタン有）
-・共同編集機能
-・画像アップロード機能
-・リンク添付機能
+-しおり作成機能
+-スケジュール追加、編集機能
+-URL共有機能（コピー用URLボタン有）
+-共同編集機能
+-画像アップロード機能
+-リンク添付機能
