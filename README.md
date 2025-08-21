@@ -5,7 +5,8 @@ week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 例：Next.jsとSupabaseを用いたブログアプリです。
 
 ## サイトイメージ
-作成中…
+![アプリ画面](img width="935" height="755" alt="スクリーンショット 2025-08-22 001923" src="https://github.com/user-attachments/assets/e79c1acd-db21-4bc8-bec3-e3046e0d7328" /?raw=true)
+
 
 ## サイトURL
 https://travel-schedule-o6ucbydvp-erina-02s-projects.vercel.app/
