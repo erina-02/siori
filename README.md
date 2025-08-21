@@ -8,7 +8,7 @@ week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 作成中…
 
 ## サイトURL
-作成中…
+https://travel-schedule-o6ucbydvp-erina-02s-projects.vercel.app/
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1QMdca3Um1b78QCDzF03d13ypRfQgwdwPzrKPrkGnSSQ/edit?usp=sharing)
